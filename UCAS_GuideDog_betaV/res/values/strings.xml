@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GuideDog</string>
+    <string name="help">提示：强烈建议你使用本应用时首先要打开网络连接和GPS功能,并且在室外使用,这样能获得最好的体验哦~\nGuideDog主要有以下几个功能：\n1、AR指南针：这是一个非同寻常的指南针，你只需将手机横屏握持朝向四周原地转一圈，即可找到方向。\n2、周边搜索功能：在这里,你可以按类型了、或名称搜索周边的地点(如银行),小助手将为你找出身边符合条件的相关地点,你还可以通过菜单切换到卫星地图。\n3、科院通知公告：在这里你能及时地知道学校的重要通知信息。\n4、校园实景导航：这应该算是本应用最有特色的功能了,如果你来到了国科大雁栖校园,但是苦于对校园环境的不熟悉而找不到想要去的地点,那么打开这个功能吧,你会发现这好像是手机的拍照界面,但是当你此时用手机的镜头对着身边的建筑物原地转一圈,你会发现惊喜哦,你会看到一些标注飘在建筑物上,没错！这就是实景导航。它可以让你在雁栖湖校园里不用问路而行走自如,找到想去的地点！\n5、添加事件提醒：你可以设定今天将要做的一件非常重要的事，然后设置提醒时间，Dog会在那时候发出提醒，以免你忘记哦。\n6、714班级通知：这里有我们班级通知发布网站的信息，方便大家及时查看班级新闻。</string>
+    <string name="about">欢迎使用-GuideDog！\n版本号：1.0, Version：小白鼠专版\n\nFrom：IIE</string>
+    <string name="map_help">1、此地图将显示您的所有自定义地点信息，如果您还没创建过地点，赶快尝试吧~\n2、长按地图某个位置即可看到该位置的详细信息，并可给该地点自定义名称、描述信息，将其作为自己的常用地点。\n3、通过切换地图模式菜单还可以切换到卫星地图模式哦~</string>
+    <string name="poi_help">你可以在上侧的搜索框中输入想要搜索的地点类型或名称,小助手将为您从附近搜索符合条件的地点，并在地图上显示搜索结果。</string>
+    
+    <string name="pull_to_refresh_pull_label">下拉刷新...</string>
+    <string name="pull_to_refresh_release_label">松手刷新...</string>
+    <string name="pull_to_refresh_refreshing_label">正在加载...</string>
+    <string name="pull_to_refresh_tap_label">点击刷新...</string>
+    
+    <string name="app_list_header_refresh_down">下拉刷新</string>
+    <string name="app_list_header_refresh_last_update">上次更新于:</string>
+    <string name="pulltorefresh">下拉刷新</string>
+    <string name="lastupdate">最后刷新时间</string>
+    <string name="app_list_footer_more">加载更多</string>
+    <string name="app_list_footer_loading">正在加载</string>
+    
+    <string name="thanks">\n特别鸣谢：感谢小白鼠用户们。^_^</string>
+    
+</resources>
